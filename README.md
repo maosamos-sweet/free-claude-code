@@ -19,7 +19,7 @@ Setup នេះអនុញ្ញាតឱ្យអ្នកប្រើ:
 បើក PowerShell (Run as Administrator)
 
 ```powershell
-wsl --install
+wsl --install Ubuntu
 ```
 
 Restart កុំព្យូទ័រ។
