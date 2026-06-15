@@ -109,6 +109,7 @@ ENTER
 ## ៨. ដំឡើង Dependencies
 
 ```bash
+source $HOME/.local/bin
 uv sync
 ```
 
