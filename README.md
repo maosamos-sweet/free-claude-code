@@ -22,9 +22,8 @@ Setup នេះអនុញ្ញាតឱ្យអ្នកប្រើ:
 wsl --install Ubuntu
 ```
 
-Restart កុំព្យូទ័រ។
-
 បង្កើត Username និង Password។
+បិទ terminal Search app បើក Ubuntu 
 
 ---
 
