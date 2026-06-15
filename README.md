@@ -37,8 +37,18 @@ Restart កុំព្យូទ័រ។
 * Remote - WSL Extension
 
 ---
+## ៣. បើក Ubuntu (WSL)
 
-## ៣. ដំឡើង Claude Code
+```bash
+sudo apt update
+sudo apt install -y nodejs npm
+
+sudo apt install git curl unzip -y
+```
+
+---
+
+## ៤. ដំឡើង Claude Code
 
 ```powershell
 npm install -g @anthropic-ai/claude-code
@@ -52,15 +62,6 @@ claude --version
 
 ---
 
-## ៤. បើក Ubuntu (WSL)
-
-```bash
-sudo apt update && sudo apt upgrade -y
-
-sudo apt install git curl unzip -y
-```
-
----
 
 ## ៥. ដំឡើង UV
 
